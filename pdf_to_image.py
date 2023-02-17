@@ -5,10 +5,10 @@
 # Case Usage:
 #	You have a directory full of PDFs, that has TTRPG map tiles.
 #	You want to extract the images from them, to build a map.
-#   Your PDFs images are in pixels of 2400x3000, meaning by grid overlay is
-#   100x100 pixels, because I've 24x30 (see image).
-#   And let's keep everything organized by named folders, & use page numbers
-#   as image names.
+# Your PDFs images are in pixels of 2400x3000, meaning by grid overlay is
+# 100x100 pixels, because I've 24x30 (see image).
+# And let's keep everything organized by named folders, & use page numbers
+# as image names.
 
 ###  What's inside my example directory of C:\Users\Admin\Desktop\Books
 ##   r"C:\Users\Admin\Desktop\Books\PZO4075 - Forest Starter Set.pdf", and more ....
