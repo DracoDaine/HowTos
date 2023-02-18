@@ -64,3 +64,6 @@ print(width/24, height/30) # Results :: (100, 100)
 document.close()
 ```
 [Moving on to Main code](https://github.com/DracoDaine/HowTos/blob/main/pdf_to_image.py)
+
+### Windows CLI Reference
+- [The Code](https://github.com/DracoDaine/HowTos/blob/main/WinCLI_refresher.bat)
